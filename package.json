@@ -4,7 +4,7 @@
   "description": "my first slack bot, which would tell me jokes",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/indexSpec.js",
+    "test": "mocha test/index.spec.js",
     "start": "node index.js"
   },
   "repository": {
