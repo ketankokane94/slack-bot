@@ -1,0 +1,24 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "my first slack bot, which would tell me jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketankokane94/slack-bot.git"
+  },
+  "keywords": [
+    "Slack",
+    "Bot"
+  ],
+  "author": "Ketan Kokane ketankokane94@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketankokane94/slack-bot/issues"
+  },
+  "homepage": "https://github.com/ketankokane94/slack-bot#readme"
+}
