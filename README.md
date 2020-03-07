@@ -3,3 +3,12 @@
 
 # slack-bot
 my first slack bot
+
+# working:
+
+Creata a Bot App on API.slack 
+    - this generates the ACCESS TOKEN
+    - Now you can add this to your workplace
+    - where do we keep the code ?
+
+where do I write the on function
